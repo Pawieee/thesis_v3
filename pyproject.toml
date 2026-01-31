@@ -6,10 +6,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "kagglehub>=0.4.2",
-    "numpy<2",
-    "opencv-python<4.10",
+    "numpy",
+    "opencv-python",
     "scikit-learn>=1.7.2",
     "scipy>=1.15.3",
-    "tensorflow==2.14.0",
-    "tensorflow-addons==0.22.0",
+    "tensorflow==2.20.0",
 ]
